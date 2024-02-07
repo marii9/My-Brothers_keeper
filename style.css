@@ -1,0 +1,8 @@
+.logo {
+    width: 60%; /* Adjust the width as needed */
+    border-radius: 80%; /* Creates a circular border */
+    box-sizing: border-box; /* Include padding and border in the total width and height */
+  box-shadow: 0 0 0 2px #333;/* Optional: Set border color and thickness */
+    display: block;
+    margin: auto; /* Centers the image */
+  }
